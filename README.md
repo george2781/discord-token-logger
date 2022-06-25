@@ -1,3 +1,4 @@
+# NO LONGER WORKING AS OF 25-6-22 (DD-MM-YY)
 # Project information
 None of the token loggers I found on the internet worked properly, so I modified one
 # How to use
